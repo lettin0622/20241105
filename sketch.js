@@ -1,4 +1,4 @@
-function setup() { //設定初始內容，只會執行一次
+//function setup() { //設定初始內容，只會執行一次
   createCanvas(windowWidth , windowHeight); //產生一個畫布
   background("#FAC8CD") //設定背景顏色
 }
